@@ -1,0 +1,7 @@
+# robots.txt for FastBetHub
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /drafts/
+
+Sitemap: https://fastbethub.com/sitemap.xml
