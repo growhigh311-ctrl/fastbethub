@@ -5,8 +5,8 @@ export default {
   "theme": "fastbethub",
   "color": "Green + Dark Gray",
   "domain": "fastbethub.com",
-  "phone": "+91 98765 43213",
-  "whatsapp": "+91 98765 43213",
+  "phone": "+91 7589045547",
+  "whatsapp": "+91 7589045547",
   "telegram": "@FastBetHub_Official",
   "tagline": "Fastest Deposits, Instant Withdrawals, Infinite Play",
   "seo": {
