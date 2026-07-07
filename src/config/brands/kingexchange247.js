@@ -4,7 +4,7 @@ export default {
   "name": "KingExchange247",
   "theme": "kingexchange247",
   "color": "Blue + Gold",
-  "domain": "kingexchange247.com",
+  "domain": "cricketid.services",
   "phone": "+91 98765 43210",
   "whatsapp": "+91 98765 43210",
   "telegram": "@KingExchange247_Official",
@@ -125,7 +125,7 @@ export default {
     {
       "id": "faq-2",
       "question": "What is the starting deposit required for KingExchange247?",
-      "answer": "You can start betting on KingExchange247 with an initial deposit of ₹500. We support multiple local payment options for smooth transactions."
+      "answer": "You can start betting on KingExchange247 with an initial deposit of â‚¹500. We support multiple local payment options for smooth transactions."
     },
     {
       "id": "faq-3",

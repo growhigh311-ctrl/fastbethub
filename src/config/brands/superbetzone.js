@@ -4,7 +4,7 @@ export default {
   "name": "SuperBetZone",
   "theme": "superbetzone",
   "color": "Yellow + Dark Blue",
-  "domain": "superbetzone.com",
+  "domain": "cricketid.services",
   "phone": "+91 98765 43217",
   "whatsapp": "+91 98765 43217",
   "telegram": "@SuperBetZone_Official",
@@ -125,7 +125,7 @@ export default {
     {
       "id": "faq-2",
       "question": "How much money do I need to deposit to begin playing on SuperBetZone?",
-      "answer": "To activate your online cricket ID on SuperBetZone, a minimum deposit of ₹500 is needed. There are no hidden fees or charges for deposits."
+      "answer": "To activate your online cricket ID on SuperBetZone, a minimum deposit of â‚¹500 is needed. There are no hidden fees or charges for deposits."
     },
     {
       "id": "faq-3",

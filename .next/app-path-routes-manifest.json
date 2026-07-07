@@ -1,0 +1,23 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/blog/[slug]/page": "/blog/[slug]",
+  "/blog/page": "/blog",
+  "/casino/page": "/casino",
+  "/contact/page": "/contact",
+  "/cricket-id/page": "/cricket-id",
+  "/exchange/page": "/exchange",
+  "/faq/page": "/faq",
+  "/live-casino/page": "/live-casino",
+  "/page": "/",
+  "/privacy/page": "/privacy",
+  "/promotions/page": "/promotions",
+  "/responsible-gaming/page": "/responsible-gaming",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/slots/page": "/slots",
+  "/sports-betting/page": "/sports-betting",
+  "/teen-patti/page": "/teen-patti",
+  "/terms/page": "/terms"
+}

@@ -4,7 +4,7 @@ export default {
   "name": "VictoryExchange",
   "theme": "victoryexchange",
   "color": "Teal + White",
-  "domain": "victoryexchange.com",
+  "domain": "cricketid.services",
   "phone": "+91 98765 43216",
   "whatsapp": "+91 98765 43216",
   "telegram": "@VictoryExchange_Official",
@@ -125,7 +125,7 @@ export default {
     {
       "id": "faq-2",
       "question": "What is the starting deposit required for VictoryExchange?",
-      "answer": "You can start betting on VictoryExchange with an initial deposit of ₹500. We support multiple local payment options for smooth transactions."
+      "answer": "You can start betting on VictoryExchange with an initial deposit of â‚¹500. We support multiple local payment options for smooth transactions."
     },
     {
       "id": "faq-3",

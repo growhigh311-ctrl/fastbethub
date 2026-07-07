@@ -4,7 +4,7 @@ export default {
   "name": "TigerBook365",
   "theme": "tigerbook365",
   "color": "Orange + Black",
-  "domain": "tigerbook365.com",
+  "domain": "cricketid.services",
   "phone": "+91 98765 43211",
   "whatsapp": "+91 98765 43211",
   "telegram": "@TigerBook365_Official",
@@ -125,7 +125,7 @@ export default {
     {
       "id": "faq-2",
       "question": "How much money do I need to deposit to begin playing on TigerBook365?",
-      "answer": "To activate your online cricket ID on TigerBook365, a minimum deposit of ₹500 is needed. There are no hidden fees or charges for deposits."
+      "answer": "To activate your online cricket ID on TigerBook365, a minimum deposit of â‚¹500 is needed. There are no hidden fees or charges for deposits."
     },
     {
       "id": "faq-3",

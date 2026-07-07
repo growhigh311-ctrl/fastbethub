@@ -4,7 +4,7 @@ export default {
   "name": "DiamondPlay99",
   "theme": "diamondplay99",
   "color": "Cyan + Navy",
-  "domain": "diamondplay99.com",
+  "domain": "cricketid.services",
   "phone": "+91 98765 43214",
   "whatsapp": "+91 98765 43214",
   "telegram": "@DiamondPlay99_Official",
@@ -125,7 +125,7 @@ export default {
     {
       "id": "faq-2",
       "question": "How much money do I need to deposit to begin playing on DiamondPlay99?",
-      "answer": "To activate your online cricket ID on DiamondPlay99, a minimum deposit of ₹500 is needed. There are no hidden fees or charges for deposits."
+      "answer": "To activate your online cricket ID on DiamondPlay99, a minimum deposit of â‚¹500 is needed. There are no hidden fees or charges for deposits."
     },
     {
       "id": "faq-3",

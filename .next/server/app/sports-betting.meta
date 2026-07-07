@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/sports-betting/layout,_N_T_/sports-betting/page,_N_T_/sports-betting"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/sports-betting/__PAGE__",
+    "/sports-betting",
+    "/_index",
+    "/_head"
+  ]
+}

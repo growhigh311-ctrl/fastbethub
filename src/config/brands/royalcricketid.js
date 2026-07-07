@@ -4,7 +4,7 @@ export default {
   "name": "RoyalCricketID",
   "theme": "royalcricketid",
   "color": "Purple + White",
-  "domain": "royalcricketid.com",
+  "domain": "cricketid.services",
   "phone": "+91 98765 43212",
   "whatsapp": "+91 98765 43212",
   "telegram": "@RoyalCricketID_Official",
@@ -92,7 +92,7 @@ export default {
       "name": "Vikram Singh",
       "location": "Jaipur",
       "rating": 5,
-      "text": "Withdrawal speed is outstanding on RoyalCricketID. I received my winning amount of ₹45,000 in my account in exactly 12 minutes. Highly trustworthy!"
+      "text": "Withdrawal speed is outstanding on RoyalCricketID. I received my winning amount of â‚¹45,000 in my account in exactly 12 minutes. Highly trustworthy!"
     },
     {
       "id": "testi-3",
@@ -125,7 +125,7 @@ export default {
     {
       "id": "faq-2",
       "question": "What is the minimum deposit amount on RoyalCricketID?",
-      "answer": "The minimum deposit on our portal is just ₹500. This low entry barrier allows you to test the cricket exchange and casino lobby risk-free."
+      "answer": "The minimum deposit on our portal is just â‚¹500. This low entry barrier allows you to test the cricket exchange and casino lobby risk-free."
     },
     {
       "id": "faq-3",
