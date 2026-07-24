@@ -85,86 +85,86 @@ export default {
       "name": "Suresh Raina",
       "location": "Chennai",
       "rating": 5,
-      "text": "I've tried many betting sites, but DiamondPlay99 stands out for speed. The user experience is simple, and the support team is very helpful."
+      "text": "I've used a lot of betting platforms, but I have to say that DiamondPlay99 is one of the fastest I've come across. It has a straightforward interface, as well as excellent support from the staff."
     },
     {
       "id": "testi-2",
       "name": "Ananya Roy",
       "location": "Kolkata",
       "rating": 5,
-      "text": "No more waiting for days to get winnings. DiamondPlay99 transfers funds in minutes. Truly instant withdrawal service."
+      "text": "No more waiting for days to receive withdrawal requests. DiamondPlay99 processes payments in minutes. The withdrawal process here is truly instant."
     },
     {
       "id": "testi-3",
       "name": "Deepak Verma",
       "location": "Hyderabad",
       "rating": 5,
-      "text": "The 10% welcome bonus was instantly credited to my wallet. Playing live Teen Patti on DiamondPlay99 with real dealers is so fun and realistic."
+      "text": "The 10% welcome bonus was credited to my account right away. The live Teen Patti games on DiamondPlay99 are really exciting with real dealers."
     },
     {
       "id": "testi-4",
       "name": "Rohit Joshi",
       "location": "Pune",
       "rating": 5,
-      "text": "Excellent support service! They are available 24/7 on WhatsApp. Friendly staff and fast response time."
+      "text": "Fantastic support service! They are available 24/7 on WhatsApp. The agents are polite and provide fast responses."
     },
     {
       "id": "testi-5",
       "name": "Sanjay Gupta",
       "location": "Ahmedabad",
       "rating": 5,
-      "text": "I value privacy, and DiamondPlay99 delivers complete security. Great betting markets and fantastic odds."
+      "text": "I appreciate the fact that DiamondPlay99 values and respects my privacy. The betting exchanges and odds are pretty amazing, too."
     }
   ],
   "faqs": [
     {
       "id": "faq-1",
-      "question": "What is the process to register for a cricket ID at DiamondPlay99?",
+      "question": "What is the procedure to register my cricket ID at DiamondPlay99?",
       "answer": "Getting registered on DiamondPlay99 is quick. Message our support representatives on WhatsApp, make your initial deposit, and your official cricket ID will be shared with you instantly."
     },
     {
       "id": "faq-2",
-      "question": "How much money do I need to deposit to begin playing on DiamondPlay99?",
-      "answer": "To activate your online cricket ID on DiamondPlay99, a minimum deposit of â‚¹500 is needed. There are no hidden fees or charges for deposits."
+      "question": "How much bonus does DiamondPlay99 offer on my first-time deposits?",
+      "answer": "To activate your online cricket ID on DiamondPlay99, a minimum deposit of ₹500 is needed. There are no hidden fees or charges for deposits."
     },
     {
       "id": "faq-3",
-      "question": "How long do withdrawals take on DiamondPlay99?",
+      "question": "What is the time taken to withdraw money from DiamondPlay99?",
       "answer": "We pride ourselves on instant withdrawals. Once you submit a withdrawal request on WhatsApp, the funds are credited to your bank account within 10 to 15 minutes."
     },
     {
       "id": "faq-4",
-      "question": "Is it safe to deposit money and play on the DiamondPlay99 platform?",
+      "question": "Is it safe to deposit and play on the website?",
       "answer": "Security is our highest priority. All financial operations on DiamondPlay99 are encrypted and handled privately, ensuring absolute safety for every gamer."
     },
     {
       "id": "faq-5",
-      "question": "Does DiamondPlay99 offer betting options outside of cricket?",
+      "question": "Does DiamondPlay99 allow me to place bets on other sports?",
       "answer": "Our platform covers all major sports markets. In addition to cricket exchange leagues, you can enjoy wagering on football, tennis, horse racing, and esports."
     },
     {
       "id": "faq-6",
-      "question": "Can I play live casino and Teen Patti on DiamondPlay99?",
+      "question": "Can I play live casino and Teen Patti at DiamondPlay99?",
       "answer": "Yes, we host a vibrant live casino section featuring Live Teen Patti, Andar Bahar, Roulette, Baccarat, Blackjack, and hundreds of interactive slot games."
     },
     {
       "id": "faq-7",
-      "question": "How can I reach the helpdesk of DiamondPlay99?",
+      "question": "How can I contact the customer support executives?",
       "answer": "Yes, we provide round-the-clock support. If you experience any technical queries, contact our WhatsApp hotline or call our official customer care."
     },
     {
       "id": "faq-8",
-      "question": "Can I pay via UPI, GPay, or PhonePe on DiamondPlay99?",
+      "question": "Does DiamondPlay99 support UPI, GPay, or PhonePe?",
       "answer": "You can easily load funds using UPI apps like PhonePe and Google Pay, or via net banking. Just ask our customer service agent on WhatsApp for the deposit gateway details."
     },
     {
       "id": "faq-9",
-      "question": "Can I access the DiamondPlay99 website on mobile?",
+      "question": "Is it possible to access the site using mobile?",
       "answer": "Our website is built on a mobile-first framework. It is fully optimized for smartphones, tablets, and desktops, running smoothly on any browser without lag."
     },
     {
       "id": "faq-10",
-      "question": "Are there welcome bonuses for new sign-ups on DiamondPlay99?",
+      "question": "Are there any welcome bonuses for new members?",
       "answer": "New members receive a 10% bonus on their initial deposit. We also run ongoing rewards, deposit match bonuses, and weekly cashbacks."
     }
   ],

@@ -53,7 +53,7 @@ export default function Hero() {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="text-base sm:text-lg md:text-xl font-medium text-text-muted max-w-2xl"
             >
-              {seoHome.h3}. Register now to receive a 10% welcome bonus on deposits and withdraw in under 15 minutes.
+              {seoHome.h3}. Register Now and Get 10% Bonus on 1st Deposit + Instant Withdrawals in 15 Minutes
             </motion.p>
 
             {/* Trust Highlights */}
@@ -65,11 +65,11 @@ export default function Hero() {
             >
               <div className="flex items-center gap-1.5 text-xs text-white bg-slate-900/50 py-1.5 px-3 rounded-lg border border-slate-800">
                 <span className="w-2 h-2 rounded-full bg-green-500 animate-ping"></span>
-                <span>Active Traders Online</span>
+                <span>Traders Online</span>
               </div>
               <div className="flex items-center gap-1.5 text-xs text-white bg-slate-900/50 py-1.5 px-3 rounded-lg border border-slate-800">
                 <ShieldCheck className="w-4 h-4 text-accent" />
-                <span>100% Secure Payouts</span>
+                <span>100% Reusable Payouts</span>
               </div>
             </motion.div>
 
@@ -138,8 +138,8 @@ export default function Hero() {
                 </div>
 
                 <div className="pt-2 flex items-center justify-between border-t border-slate-800 text-xs">
-                  <span className="text-text-muted">Minimum Deposit: <strong>₹500</strong></span>
-                  <span className="text-text-muted">Withdrawal time: <strong>15 Min</strong></span>
+                  <span className="text-text-muted">Min. Deposit: <strong>₹500</strong></span>
+                  <span className="text-text-muted">Withdraw: <strong>15 Min</strong></span>
                 </div>
               </div>
             </motion.div>

@@ -11,22 +11,22 @@ export default function WhyChooseUs() {
     {
       num: '01',
       title: 'Request ID',
-      desc: `Send a quick text to our support desk on WhatsApp to register and receive your login details.`
+      desc: `Send a WhatsApp message to our support desk to register and receive your login instructions`
     },
     {
       num: '02',
       title: 'Make Deposit',
-      desc: 'Load funds securely via BHIM UPI, PhonePe, Paytm, or bank transfer (Minimum ₹500).'
+      desc: 'Fund your wallet using BHIM UPI, PhonePe, Paytm, or net-banking (minimum deposit: ₹500)'
     },
     {
       num: '03',
       title: 'Start Playing',
-      desc: 'Log in to the exchange portal, track high-liquidity matches, and wager with live odds.'
+      desc: 'Login to the DiamondPlay99 portal, track live scores, and start betting with instant odds'
     },
     {
       num: '04',
       title: 'Instant Cashout',
-      desc: 'Message us on WhatsApp to withdraw your winning balance directly to your bank in 15 minutes.'
+      desc: 'Send a WhatsApp request to withdraw your winning balance directly to your bank account'
     }
   ];
 
@@ -45,16 +45,16 @@ export default function WhyChooseUs() {
               Get Your Online Cricket ID and Play in Minutes
             </h2>
             <p className="text-sm text-text-muted leading-relaxed">
-              We have streamlined the entire registration and transaction process on {brand.name}. No complex validation forms, no long processing delays.
+              It is effortless to get started on DiamondPlay99. We've optimized our registration and banking procedures to make your gaming life simpler. There are no extra steps to verify your account or lengthy approval processes to fund your exchange wallet
             </p>
 
             {/* List checklist */}
             <div className="space-y-3 pt-2">
               {[
-                'Instant account activation in 2 minutes',
-                'Multiple Indian payment gateways supported',
-                'Guaranteed 15-minute cashouts 24/7',
-                'End-to-end user detail encryption'
+                'Instant account activation within 2 minutes',
+                'Wide range of local payment gateways',
+                'All withdrawals processed within 15 minutes',
+                'End-to-end data encryption'
               ].map((text, idx) => (
                 <div key={idx} className="flex items-center gap-3">
                   <span className="flex items-center justify-center w-5 h-5 rounded-full bg-primary/20 text-primary">

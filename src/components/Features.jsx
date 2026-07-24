@@ -11,33 +11,33 @@ export default function Features() {
   const featureItems = [
     {
       icon: <Zap className="w-8 h-8 text-accent" />,
-      title: 'Instant ID Activation',
-      desc: `Get your online cricket exchange and gaming ID on ${brand.name} in less than 2 minutes on WhatsApp.`
+      title: 'Instant Cricket IDs',
+      desc: `Get online cricket exchange and gaming IDs on ${brand.name} in under 2 minutes on WhatsApp`
     },
     {
       icon: <Clock className="w-8 h-8 text-accent" />,
-      title: '15-Min Fast Withdrawals',
-      desc: 'No delays. Withdraw your winnings directly to your bank account or UPI wallet in 10 to 15 minutes.'
+      title: '15 Min Cashouts',
+      desc: 'Directly withdraw funds from your exchange wallet to your bank or UPI account within 10-15 minutes'
     },
     {
       icon: <Clock className="w-8 h-8 text-accent" />, // We can map this to active support
       title: '24x7 WhatsApp Support',
-      desc: 'Our dedicated customer support agents are online day and night to answer questions and load deposits.'
+      desc: 'Our representatives are always available to assist you in loading deposits and clearing withdrawal requests'
     },
     {
       icon: <Shield className="w-8 h-8 text-accent" />,
       title: 'Secure & Private Platform',
-      desc: 'All player registrations, financial databases, and credentials run on 256-bit SSL encrypted nodes.'
+      desc: 'All user data, financial records, and encryption are protected in 256-bit SSL encrypted servers'
     },
     {
       icon: <TrendingUp className="w-8 h-8 text-accent" />,
       title: 'Live Match Betting',
-      desc: 'Enjoy live interactive back-and-lay odds tracking for Cricket matches, Football leagues, and Tennis.'
+      desc: 'Enjoy interactive back and lay betting odds on all Cricket matches, Football leagues, and Tennis events'
     },
     {
       icon: <CheckCircle className="w-8 h-8 text-accent" />,
       title: '100% Trusted Service',
-      desc: `Join thousands of active Indian punters who trust ${brand.name} for cricket IDs, casinos, and Teen Patti.`
+      desc: `Join the thousands of active Indian punters who use ${brand.name} for cricket gaming, online casinos, and Teen Patti.`
     }
   ];
 
